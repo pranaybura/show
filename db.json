@@ -52,5 +52,23 @@
                         { "id": 4, "qu": "Question 4" }
               ]
             }
+   ],
+  "logo": [
+            {
+              "cam1": [
+                        { "id": 1, "qu": "Question 1" },
+                        { "id": 2, "qu": "Question 2" },
+                        { "id": 3, "qu": "Question 3" },
+                        { "id": 4, "qu": "Question 4" }
+              ]
+            },
+            {
+              "cam2": [
+                        { "id": 1, "qu": "Question 1" },
+                        { "id": 2, "qu": "Question 2" },
+                        { "id": 3, "qu": "Question 3" },
+                        { "id": 4, "qu": "Question 4" }
+              ]
+            }
    ]
 }
